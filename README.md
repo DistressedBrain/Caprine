@@ -4,6 +4,7 @@ Inspired by Cyberpunk Edgerunners Season 2.
 
 ## Brain Map
 
+```text
           INPUT (text from your "library reader")
                          │
           ┌──────────────┴──────────────┐
@@ -28,6 +29,7 @@ Inspired by Cyberpunk Edgerunners Season 2.
    (writes answer)               (takes action)
                                        │
                                        └──► result → Somatosensory
+```
 
 
 ## Cortex Map
